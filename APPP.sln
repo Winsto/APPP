@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.22310.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter22", "Chapter22", "{A909B326-3071-4DA8-A023-54D0FF44C9A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{A10A635B-B206-444F-A34F-17EE1B929663}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Chapter22\Strategy\Strategy.csproj", "{A10A635B-B206-444F-A34F-17EE1B929663}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
