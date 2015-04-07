@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Strategy
+﻿namespace Strategy
 {
     public sealed class IntSortHandler : SortHandler<int>
     {
